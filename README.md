@@ -38,13 +38,3 @@ Pandas
 NumPy
 Scikit-Learn
 Matplotlib
-
-
-
-
-
-
-
-
-A regression model that estimates house prices based on area, bedrooms, and age of the property.
-Tech: Linear Regression, Model Training, Price Predictions.
