@@ -19,6 +19,7 @@ A predictive classification model that detects the likelihood of diabetes using 
 Tech: Logistic Regression, Model Evaluation, Accuracy Score.
 
 4️⃣ House Price Prediction
+
 A regression model that estimates house prices based on area, bedrooms, and age of the property.
 Tech: Linear Regression, Model Training, Price Predictions.
 
